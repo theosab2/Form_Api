@@ -1,0 +1,12 @@
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\bin\Debug\FormAppMusic.exe.config
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\bin\Debug\FormAppMusic.exe
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\bin\Debug\FormAppMusic.pdb
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\obj\Debug\FormAppMusic.csprojAssemblyReference.cache
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\obj\Debug\FormAppMusic.Form1.resources
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\obj\Debug\FormAppMusic.Properties.Resources.resources
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\obj\Debug\FormAppMusic.csproj.GenerateResource.cache
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\obj\Debug\FormAppMusic.csproj.CopyComplete
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\obj\Debug\FormAppMusic.exe
+C:\Users\theo2\Desktop\code\C#\MvcMusic\FormAppMusic\obj\Debug\FormAppMusic.pdb
